@@ -30,17 +30,19 @@ This system allows users to register, verify their email, vote for candidates, a
 
 ---
 
-## 📸 Output Screenshots
+### Home Screen
+![Screenshot 2025-06-09 000153](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000153.png)
+![Screenshot 2025-06-09 000204](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000204.png)
 
-You can add images of the website UI here like this:
+### Contestants
+![Screenshot 2025-06-09 000238](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000238.png)
 
-```markdown
-![Home Page](images/home.png)
-![User Dashboard](images/user_dashboard.png)
-![Admin Panel](images/admin_dashboard.png)
-```
+### After vote
+![Screenshot 2025-06-09 000249](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000249.png)
 
-> 🔽 Save your output images in a folder named `images/` inside your project directory.
+### Admin Page
+![Screenshot 2025-06-09 000314](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000314.png)
+![Screenshot 2025-06-09 000336](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000336.png)
 
 ---
 
